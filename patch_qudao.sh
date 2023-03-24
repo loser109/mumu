@@ -8,7 +8,7 @@ download_azurlane () {
     # 这个链接是MUMU下载的,应该是9游,其他渠道自行修改直链
     #url="https://downali.game.uc.cn/s1/2/10/20230213150150_blhx_uc_2022_11_02_18_24_01.apk?x-oss-process=udf/uc-apk,ZBHDhDR0LVBkTsK*wpLCng==afae37c2a88fd1ca&sh=10&sf=1831727323&vh=18330f93bd450707942ce0b882a0c6b2&cc=2521889677&did=217b729f8a4841dd81901816dfba551f"
     #这个链接是当乐网
-    url="https://a11.gdl.netease.com/azurlane_78f377_blhxtg-0626.exe"
+    url="https://downali.game.uc.cn/s1/2/10/20230213150150_blhx_uc_2022_11_02_18_24_01.apk?x-oss-process=udf/uc-apk,ZBHDhDR0LVBkTsK*wpLCng==afae37c2a88fd1ca&sh=10&sf=1831727323&vh=18330f93bd450707942ce0b882a0c6b2&cc=2521889677&did=65c93cf2ab9549dc913e0c35f4bd539f"
     # 使用wget命令下载apk文件
     curl -o blhx.apk  $url
     fi
